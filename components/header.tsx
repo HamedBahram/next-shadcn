@@ -23,7 +23,7 @@ export default function Header() {
             <ul className='flex flex-col gap-3 text-sm'>
               <li className='font-sans text-2xl'>
                 <SheetClose asChild>
-                  <Link href='/'>Broker</Link>
+                  <Link href='/'>next</Link>
                 </SheetClose>
               </li>
             </ul>
@@ -32,7 +32,7 @@ export default function Header() {
 
         <ul className='hidden items-center gap-14 text-sm font-medium sm:flex'>
           <li className='font-serif text-lg font-bold'>
-            <Link href='/'>Broker Logo</Link>
+            <Link href='/'>next</Link>
           </li>
         </ul>
 
