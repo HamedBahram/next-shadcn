@@ -26,8 +26,8 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Mortgage Broker',
-  description: 'Mortgage Broker website'
+  title: 'Next Shadcn Template',
+  description: 'NextJs template with shadcn/ui'
 }
 
 export default function RootLayout({
